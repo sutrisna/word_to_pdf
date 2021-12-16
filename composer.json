@@ -1,0 +1,14 @@
+{
+    "name": "lmu/wordpdf",
+    "description": "word to pdf converter",
+    "authors": [
+        {
+            "name": "Trisna",
+            "email": "sosmedonly1945@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "apfelbox/php-file-download": "^2.1"
+    }
+}
