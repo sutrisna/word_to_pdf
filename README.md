@@ -15,7 +15,7 @@ $ composer install
 
 ### Usage
 ```bash
-http://localhost/wordpdf?file=[file_name]]&type=[file_extension]
+http://localhost/[project_folder]?file=[file_name]]&type=[file_extension]
 ```
 
 ### Requirements
