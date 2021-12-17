@@ -6,12 +6,17 @@ Sebelumnya install [LibreOffice](http://www.libreoffice.org/).
 
 ### Installation
 1. Setup `soffice` di environment `for windows os`
-2. 
+2. Jalan kan composer :
 ```bash
 $ composer install
 ```
 3. Upload file docx ke folder `files`
-4. Hasil convert ada di folder output
+4. Hasil convert ada di folder `output`
+
+### Usage
+```bash
+http://localhost/wordpdf?file=[file_name]]&type=[file_extension]
+```
 
 ### Requirements
 - PHP 8.0
