@@ -14,8 +14,13 @@ $ composer install
 4. Hasil convert ada di folder `output`
 
 ### Usage
+Run Service
 ```bash
-http://localhost/[project_folder]?file=[file_name]]&type=[file_extension]
+php -S localhost:8080
+```
+Example
+```bash
+http://localhost:8080?file=[file_name]&type=[file_extension]
 ```
 
 ### Requirements
